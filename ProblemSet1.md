@@ -112,3 +112,15 @@ After running the above command, I can see that these two files are in fact diff
 ------------------
 ![This is a picture of my screenshot](forkimage.png)
 
+### Question 8: 
+------------------
+I uploaded all required files to the forked GitHub repository, including my markdown file and the files created in Questions 5–7.  
+
+I also added you (i.e., SMEmrich) as a collaborator under the repository settings.  
+
+**To show the commands I used for committing files, I created a file called `commit_history.txt` using the following command:**  
+
+> `history | grep git | tail -n 10 > commit_history.txt`
+
+Finally, I committed both `commit_history.txt` and my completed markdown file (`ProblemSet1.md`) to my GitHub repository.
+
