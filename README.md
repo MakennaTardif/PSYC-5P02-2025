@@ -11,5 +11,9 @@ The most recent version of this course is fall of 2025. The syllabus is availabl
 
 ## Problem Sets
 
-* Problem sets will be made avilable as the course progresses.
+* Problem sets will be made avilable as the course progresses. 
+
+## Exams
+
+* No Exams suckas.
 
