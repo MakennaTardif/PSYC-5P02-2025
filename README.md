@@ -11,5 +11,5 @@ The most recent version of this course is fall of 2025. The syllabus is availabl
 
 ## Problem Sets
 
-* Problem sets will be made avilable as the course progresses. 
+* [Problem Sets](https://github.com/SMEmrich/PSYC-5P02-2025/tree/main/ProblemSets) will be made avilable as the course progresses. 
 
