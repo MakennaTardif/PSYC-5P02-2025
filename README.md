@@ -1,6 +1,6 @@
 # Overview
 
-PSYC 5P02 - Programming for Expeirmental Psychology - is a class offered by Professor Stephen M. Emrich at Brock University. The objective is to teach graduate students in Psychology the basics of bash terminal, version control in git, and progrmaming in Python. 
+PSYC 5P02 - Programming for Expeirmental Psychology - is a class offered by Professor Stephen M. Emrich at Brock University. The objective is to teach graduate students in Psychology the basics of bash terminal, version control in git, and progrmaming in Python and Matlab. 
 
 ## Syllabus
 
@@ -11,5 +11,5 @@ The most recent version of this course is fall of 2025. The syllabus is availabl
 
 ## Problem Sets
 
-* Problem sets will be made avilable as the course progresses. 
+* [Problem Sets](https://github.com/SMEmrich/PSYC-5P02-2025/tree/main/ProblemSets) will be made avilable as the course progresses. 
 
